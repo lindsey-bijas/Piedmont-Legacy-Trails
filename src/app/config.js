@@ -52,9 +52,9 @@ app.cfg = {
 					softBtn: "#C5D5D5", 
 					esriLogo: "white",
 					esriLogoMobile: "white",
-					tab: "#666666",
-					tabActive: "#B8B8B8",
-					tabHover: "#8D8F91",
+					tab: "#FF0000",
+					tabActive: "#F65D71",
+					tabHover: "#FD1E3B",
 					tabText: "#FEE680",
 					tabTextHover: "#FEE680",
 					tabTextActive: "#FEE680"
